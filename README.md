@@ -14,12 +14,12 @@ Infrastructure Management System
 
 A user persona for a city government employee who will be using the web-based portal to manage infrastructure issues:
 
-Name: Ashish Nehra
-Job title: Infrastructure Admin
-Department: Public Works
-Location: City Hall
-Goals: Repair the city's southwest road infrastructure for potholes
-Challenges: Identifying and prioritizing potholes filling issues, tracking the progress of repairs using map
+1. Name: Ashish Nehra
+2. Job title: Infrastructure Admin
+3. Department: Public Works
+4. Location: City Hall
+5. Goals: Repair the city's southwest road infrastructure for potholes
+6. Challenges: Identifying and prioritizing potholes filling issues, tracking the progress of repairs using map
 
 Benefits of using the web-based portal: 
 1. The web-based portal will help Ashish and his team to:
