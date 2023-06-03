@@ -21,8 +21,12 @@ A user persona for a city government employee who will be using the web-based po
 5. Goals: Repair the city's southwest road infrastructure for potholes
 6. Challenges: Identifying and prioritizing potholes filling issues, tracking the progress of repairs using map
 
-Benefits of using the web-based portal: 
-1. The web-based portal will help Ashish and his team to:
-2. Easily create, read, modify, finish (delete) tasks (CRUD operation)
-3. Track the site for repairs using map location
-4. The portal will help the Government Infrastructure Department to identify and prioritize infrastructure issues
+Benefits of using the web-based portal. The web-based portal will help Ashish and his team to:
+1. Easily create, read, modify, finish (delete) tasks (CRUD operation)
+2. Track the site for repairs using map location
+3. The portal will help the Government Infrastructure Department to identify and prioritize infrastructure issues
+
+# User Journey Map
+
+![Untitled (1)](https://github.com/MiHawkStackOverFlow/Infra-Management/assets/20744146/85af13e6-972c-447c-bce4-dafad764bdac)
+
