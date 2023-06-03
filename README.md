@@ -47,3 +47,8 @@ The following design principles would be important to consider when developing t
 2. Location tracking: The portal should allow users to track the location of infrastructure works. Users should be able to see where work is being done
 3. Risk assessment: The portal should allow users to assess the risk of infrastructure issues. Users should be able to identify high-risk areas and take steps
 4. Communication: The portal should allow users to communicate with each other. Users should be able to share information, collaborate on tasks, and resolve issues.
+
+# High Level Class Diagram
+
+![Untitled (2)](https://github.com/MiHawkStackOverFlow/Infra-Management/assets/20744146/7ff36c59-eb55-425b-b391-95ad091f7690)
+
