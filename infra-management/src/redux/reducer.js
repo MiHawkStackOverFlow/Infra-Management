@@ -1,6 +1,6 @@
 
 const initialData = {
-  tasks: []
+  tasksItems: []
 }
 
 const taskReducer = (state = initialData, action) => { 

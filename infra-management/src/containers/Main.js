@@ -1,7 +1,8 @@
-import React, { Component } from 'react'
-import { connect } from 'react-redux'
-import AddTask from '../components/AddTask/AddTask'
-import styles from './Main.style.js';
+import React, { Component } from "react";
+import { connect } from "react-redux";
+import AddTask from "../components/AddTask/AddTask";
+import styles from "./Main.style.js";
+import TaskItem from "../components/TaskItem/TaskItem";
 
 export class Main extends Component {
   render() {
@@ -12,14 +13,15 @@ export class Main extends Component {
           <div style={styles.inputWrapper}>
             <AddTask />
           </div>
+          <TaskItem />
         </div>
       </div>
-    )
+    );
   }
 }
 
-const mapStateToProps = (state) => ({})
+const mapStateToProps = (state) => ({});
 
-const mapDispatchToProps = (dispatch) => {}
+const mapDispatchToProps = (dispatch) => {};
 
-export default connect(mapStateToProps, mapDispatchToProps)(Main)
+export default connect(mapStateToProps, mapDispatchToProps)(Main);
