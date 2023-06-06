@@ -24,6 +24,12 @@ const styles = {
     alignItems: "center",
     justifyContent: "center",
   },
+  separator: {
+    color: 'black',
+    height: '0.1mm',
+    width: '78%',
+    marginBottom: 15
+  }
 };
 
 export default styles;

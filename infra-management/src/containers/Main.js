@@ -12,6 +12,7 @@ export class Main extends Component {
           <h1 style={styles.title}>Infrastructure Tasks</h1>
           <div style={styles.inputWrapper}>
             <AddTask />
+            <hr style={styles.separator}/>
           </div>
           <TaskItem />
         </div>
